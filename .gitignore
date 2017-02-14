@@ -1,5 +1,8 @@
 /.git
 /.ipynb_checkpoints
+rotten/*
 gantest.ipynb
 tm_2017-01-24_KerasCIFAR.ipynb
 tm_2017-01-24_KerasMNIST.ipynb
+test_discriminator.ipynb
+tm_gan_simple.ipynb
