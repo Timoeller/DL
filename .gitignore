@@ -7,3 +7,5 @@ tm_2017-01-24_KerasMNIST.ipynb
 test_discriminator.ipynb
 tm_gan_simple.ipynb
 tm_2017-02-10_rottenLSTM.ipynb
+tm_2017-02-13_RottenGloveAllUntrainable.ipynb
+tm_2017-02-16_ChangeInEmebeddings.ipynb
